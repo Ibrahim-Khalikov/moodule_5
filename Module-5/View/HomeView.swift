@@ -12,7 +12,7 @@ struct HomeView: View {
  @EnvironmentObject var model: ContentModel
     
     var body: some View {
-        Text("Welcome to my new Module 5 Projects...")
+        Text("Wwefvas...")
             .padding()
     }
 }
