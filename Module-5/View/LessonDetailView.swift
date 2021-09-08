@@ -26,6 +26,8 @@ struct LessonDetailView: View {
             
 //            if model.hasNextLesson() {
 //
+            Text("Hello world")
+            
 //                Button(action: {}, label: {
 //
 //                    RectangleCard(color: .green, text: "Next:  \(model.currentModule!.content.lessons[model.currentLessonIndex + 1].title)")
