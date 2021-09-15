@@ -25,8 +25,8 @@ struct LessonDetailView: View {
             }
             
 //            if model.hasNextLesson() {
-//
-            Text("Hello worldiukh7g8jttiojnntvyvntvvtv t oit regregregthe y yty i takeiohsfvadfvsd butwd3dw imonkey jetty on eealking true ")
+//erg
+            Text("Hello worldiukh7regergerg8jttiojnntvyvntvvtv t oit regregregthe y yty i takeiohsfvadfvsd butwd3dw imonkey jetty on eealking true ")
             
 //                Button(action: {}, label: {
 //
