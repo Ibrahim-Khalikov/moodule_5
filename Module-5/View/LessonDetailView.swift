@@ -26,7 +26,7 @@ struct LessonDetailView: View {
             
 //            if model.hasNextLesson() {
 //
-            Text("Hello worldttiojnntvyvntvvtv t oit regregregthe y yty i take but imonkey jetty on eealking true ")
+            Text("Hello worldttiojnntvyvntvvtv t oit regregregthe y yty i take butwd3dw imonkey jetty on eealking true ")
             
 //                Button(action: {}, label: {
 //
