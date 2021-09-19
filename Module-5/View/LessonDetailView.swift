@@ -19,7 +19,7 @@ struct LessonDetailView: View {
     
         VStack{
             
-            Text("asdhfa bvbnjbu hunj buwds")
+            Text("asdhfa bvbnjbuwaewqa hunj buwds")
             
             if url != nil {
                 VideoPlayer(player: AVPlayer(url: url!))
