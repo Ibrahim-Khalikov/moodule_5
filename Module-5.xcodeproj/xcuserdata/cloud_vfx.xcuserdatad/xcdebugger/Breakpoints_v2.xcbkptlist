@@ -32,22 +32,22 @@
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "20"
                   endingLineNumber = "20"
-                  offsetFromSymbolStart = "740">
+                  offsetFromSymbolStart = "868">
                </Location>
                <Location
-                  uuid = "DD0E40DB-A9ED-4FB7-AC98-F6BDC02868DE - a84cde7c1db9cf0a"
+                  uuid = "DD0E40DB-A9ED-4FB7-AC98-F6BDC02868DE - 190fa8ae19466c06"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(Swift.Optional&lt;_AVKit_SwiftUI.VideoPlayer&lt;SwiftUI.EmptyView&gt;&gt;, SwiftUI.Text)&gt; in Module_5.LessonDetailView.body.getter : some"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, _AVKit_SwiftUI.VideoPlayer&lt;SwiftUI.EmptyView&gt;)&gt; in Module_5.LessonDetailView.body.getter : some"
                   moduleName = "Module-5"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/cloud_vfx/Desktop/Module-5/Module-5/View/LessonDetailView.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "21"
-                  endingLineNumber = "21"
-                  offsetFromSymbolStart = "524">
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "332">
                </Location>
             </Locations>
          </BreakpointContent>

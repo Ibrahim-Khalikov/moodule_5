@@ -18,28 +18,33 @@ struct LessonDetailView: View {
         let url = URL(string: Constants.videoHostUrl + (lesson?.video ?? ""))
     
         VStack{
+            
+            Text("asdhfa bvbnjbu hunj buwds")
+            
             if url != nil {
                 VideoPlayer(player: AVPlayer(url: url!))
                   //  .cornerRadius(10)
                     
             }
             
-//            if model.hasNextLesson() {
-//erg
-            Text("Hello worldiukh7regergerg8jttiojnntvyvntvvtv t oit regregregthe y yty i takeiohsfvadfvsd butwd3dw imonkey jetty on eealking true ")
+            if model.hasNextLesson() {
+
+            Text("Hello world ")
             
-//                Button(action: {}, label: {
-//
-//                    RectangleCard(color: .green, text: "Next:  \(model.currentModule!.content.lessons[model.currentLessonIndex + 1].title)")
-//
-//                })
-//            }
+                Button(action: {}, label: {
+
+                    RectangleCard(color: .green, text: "Next:  \(model.currentModule!.content.lessons[model.currentLessonIndex + 1].title)")
+
+                })
+            }
         }
+    
     }
 }
 
 struct LessonDetailView_Previews: PreviewProvider {
     static var previews: some View {
         LessonDetailView()
+            .environmentObject(ContentModel())
     }
 }

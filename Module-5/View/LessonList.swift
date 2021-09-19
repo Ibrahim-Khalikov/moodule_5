@@ -28,12 +28,11 @@ struct LessonList: View {
                     label: {
                         LessonListRow(index: index)
                     })
-                        
-                        
-
                     }
                 }
+              
             }.padding()
+            .accentColor(.black)
             .navigationTitle("Learn \(model.currentModule?.category ?? "")")
             
         }
